@@ -1,0 +1,8 @@
+export const userErrorCodes = {
+    USER_ALREADY_EXIST:1011,
+    USER_NOT_FOUND:1013,
+    TOKEN_GENERATION_ERROR:1010,
+    FETCH_USER_ERROR:1014,
+    USER_NOT_CREATED:1015,
+    
+}
